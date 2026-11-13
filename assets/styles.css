@@ -192,6 +192,7 @@ img{max-width:100%;display:block}
 .chips{display:flex;flex-wrap:wrap;gap:7px}
 .chips li{font-size:.76rem;color:var(--text);padding:6px 10px;border-radius:8px;background:rgba(47,182,168,.06);border:1px solid rgba(47,182,168,.14);transition:background .2s,border-color .2s}
 .chips li:hover{background:rgba(47,182,168,.12);border-color:rgba(47,182,168,.3)}
+.stack-note{margin-top:14px;font-family:"JetBrains Mono",monospace;font-size:.64rem;letter-spacing:.04em;color:var(--teal-2)}
 
 /* repos */
 .repos{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
